@@ -1,0 +1,22 @@
+{
+  "id": "./",
+  "name": "Leitura Betânia",
+  "short_name": "Leitura SEB",
+  "description": "Acompanhamento de leitura do Seminário Evangélico Betânia.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f2e8",
+  "theme_color": "#f7f2e8",
+  "icons": [
+    {
+      "src": "./logo-seminario-betania.png",
+      "sizes": "447x447",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
+
